@@ -1,0 +1,12 @@
+{
+    "autoload": {
+    	"psr-4": {
+    		"Tac\\": "app/Tac"
+    	}
+    },
+    
+    "require-dev": {
+        "phpunit/phpunit": "3.7.*"
+    }
+	
+}
